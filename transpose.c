@@ -2,7 +2,7 @@
 /*NOTE:This program is for 3x3 matrix but you can extend it to matrices of 
 higher order by changing m and n 
 
-AUTHOR: @vedcodes2312                         */
+AUTHOR: VED VYAS GITHUB:vedcodes2312                         */
 
 #include<stdio.h>//preprocessor directive with header file
 #include<conio.h>//console input output header file
